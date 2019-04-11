@@ -18,5 +18,5 @@ Neural Information Processing Systems (NIPS) is one of the top machine learning 
 * The future of machine learning
 
 ## Contributing
-* **Sedeeq Al-khazraji** {Sedeeq.Alkhazraji@gmai.com}
+* **Sedeeq Al-khazraji** {Sedeeq.Alkhazraji@gmail.com}
 
